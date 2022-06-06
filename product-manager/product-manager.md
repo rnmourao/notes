@@ -1501,9 +1501,12 @@ The Design Sprint phases follow a Divert-Converge process.
 
 ### Phase 1 - Understand
 
+<img src="images/phases-understand.jpeg"/>
+
+
 **Lightning Talks**
 
-A short presentation, about 29 minutes, focused on a specific topic.
+A short presentation, about 20 minutes, focused on a specific topic.
 
 - Types of Lightning Talks (non-exhaustive)
   - User Research: what do we know about users, goals & problems?
@@ -1517,3 +1520,56 @@ A short presentation, about 29 minutes, focused on a specific topic.
 |User Research|- Researcher presents study on users with purchase intent<br/>- Researcher presents from study on users with [X] need|
 |Business|- Sales team presents industry trends and competitive landscape<br/>- CEO presents importance of specific market/region|
 |Technology|- Engineer presents new capabilities that are available<br/>- Engineer presents tear down of competitor tech|
+
+
+**Interviews**
+
+Interviews allow you to gain perspectives from a number of different vantage points. There are lots of types of interviews you can set up including:
+
+- User interviews
+  - Build empathy for users
+  - Get a deeper understanding of user needs and pain points
+
+- Stakeholder interviews
+  - Dive deeper into some of the reasoning, rationale, and context of why this specific problem is important to solve
+  - Topics can include any previous efforts to solve this or a similar problem
+
+- Expert interviews
+  - Provide specialized insights around a specific problem, population, or technology
+  - Can be either internal or external
+
+
+**Competitive Analysis** 
+
+Get a better understanding of the competition and other solutions that exist in the problem space by:
+
+- Doing research, including checking out websites and press materials
+- Reading reviews
+- Using the product and recording your experience
+
+*Keep in mind…*
+
+> Just because a competitor built something a certain way doesn’t mean it was the right thing to build or that it was built the right way.
+
+**How Might We**
+
+> “How Might We” is a method to capture problems and frame them as opportunities that can be solved. Each statement should be captured on its own sticky note.
+
+“How Might We” statements always start with the same three words, which creates a positive solution oriented framing.
+
+- **How**: acknowledges that we don’t know the answer yet but believe this problem can be solved
+- **Might**: acknowledges there can be more than one solution and that we shouldn’t stop at the first idea. “Might” also acknowledges that not every solution will work, but it’s still ok to discuss and explore ideas that might not pan out
+- **We**: acknowledges that the team is invested in solving this problem together
+
+*Things to Remember*
+- Write one “How Might We” statement per sticky note
+- Each statement should be open ended
+- Statements should focus on open ended opportunities, rather than a specific solution. Try to avoid statements that are too narrow.
+
+*Things to watch out for*
+
+| | BAD | GOOD |
+| --- | --- | --- |
+| Frame as a question | Make it easier for people to find items | How might we make it easier for people to find items? |
+| Support multiples solutions | How might we use couriers to deliver groceries to people's homes?| How might we get groceries to people faster? |
+| Not too broad, though| How might we build an app for our store? | How might we let customers place orders online? |
