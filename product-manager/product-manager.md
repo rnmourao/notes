@@ -118,6 +118,7 @@
   - [Introduction to Design Thinking](#introduction-to-design-thinking)
     - [Introduction to Design Sprint](#introduction-to-design-sprint)
     - [Phase 1 - Understand](#phase-1---understand)
+    - [Phase 2 - Define](#phase-2---define)
 
 
 ## What a PM does in a product
@@ -1573,3 +1574,160 @@ Get a better understanding of the competition and other solutions that exist in 
 | Frame as a question | Make it easier for people to find items | How might we make it easier for people to find items? |
 | Support multiples solutions | How might we use couriers to deliver groceries to people's homes?| How might we get groceries to people faster? |
 | Not too broad, though| How might we build an app for our store? | How might we let customers place orders online? |
+
+
+**Roses, Buds, and Thorns**
+
+You can use the Rose, Bud, Thorn method to classify aspects of a topic and visualize good aspects, opportunities, and negative aspects.
+
+**Roses** are positive things. For example roses could be things that are going well or seen as a successful. Roses can also represent things or parts of a product that people enjoy.
+
+**Buds** are things that could turn into roses, if given the right attention. They represent areas of opportunity.
+
+**Thorns** are negative things. For example thorns could be problems or shortcomings. They also can represent broken product experiences.
+
+**Things to Remember**
+
+- Write One thing per sticky
+- Use different colored stickies for roses, buds and thorns
+
+
+**Affinity Mapping**
+
+Affinity mapping is a way to visually sort related ideas together into categories and themes.You’ll go through each idea/insight, quickly discuss, and then place onto the board. As similar or related ideas are discussed their respective sticky notes should be placed next to each other. Over time you will see that clusters of related sticky notes have started to form. Make sure to label each cluster. Once all sticky notes have been placed on the board and you have a couple different clusters, look to see if any of those clusters are related. Related clusters will create themes If so, rearrange those clusters so that they are next to each other. Draw a circle around those clusters and create a label for the theme that you discovered.
+
+<img src="images/affinity-map.jpeg"/>
+
+Affinity mapping is a method that allows you to take ideas and insights and group them into related categories and themes. This is a great way to take a large amount of information and visually represent it in a way that is much easier to parse and will inform the rest of the sprint.
+
+
+**Things to Remember**
+
+- It’s an interactive process. Make sure to leverage the group
+- Place related sticky notes next to each other in clusters. Label each cluster with a name that represents that category
+- Make sure to have an “Other” category. This is helpful if an idea doesn’t fit with other sticky notes. No need to try and force everything to fit into a category.
+- Don’t be afraid to move things around. The first categories you come up with probably won’t be your final categories.
+- Once all the sticky notes are on the board, check to see if any of the clusters are related. If so group them together as a theme with a label.
+- Make sure to take photos, especially at the end with the completed affinity map
+
+
+**Useful Links**
+
+[How might we](https://www.designkit.org/methods/3)
+
+[HMW Statements](https://www.innovationchampions.com.au/toolkit/hmw-statements)
+
+[HMW Sharing and Affinity Mapping](https://designsprintkit.withgoogle.com/methodology/phase1-understand/method-1)
+
+[Rose, Thorn, Bud](https://designsprintkit.withgoogle.com/methodology/phase1-understand/rose-thorn-bud)
+
+[A Beginner's Guide to Affinity Mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping)
+
+[Affinity Mapping](https://www.innovationchampions.com.au/toolkit/affinity-mapping)
+
+[Affinity Map Examples](http://www.syque.com/quality_tools/toolbook/Affinity/example.htm)
+
+
+### Phase 2 - Define
+
+
+<img src="images/phases-define.jpeg"/>
+
+The second phase of the Design sprint is Define. The goal of this phase is to create focus on what you want to achieve and how you will define success. Once you’ve identified that vision, it becomes much easier to understand and frame all the other steps you will need to take to realize that vision.
+
+**Defining Success Metrics**
+
+*Things to Remember*
+
+The HEART framework is a user-centered method to define metrics that measure the quality of the user experience. It’s simple and easy to understand and can help with decision making in later phases. There are five dimensions:
+
+- **Happiness**: user attitude towards your product
+- **Engagement**: how users are using the product in terms of frequency or number/types of features used
+- **Adoption**: how many new users start using your product
+- **Retention**: how many users keep coming back
+- **Task Success**: ability for users to complete critical tasks in order to be successful with the product
+
+Across these dimensions, you will then want to start by identifying goals, then signals, and finally metrics to measure how well your product is doing.
+
+- A **goal** is something the user is trying to do or something you are trying to help them to do
+- A **signal** is a change in user behavior that indicates that the user is achieving the goal
+- A **metric** is a way to measure signal and quantify how much user behavior has changed
+  
+Keep in mind that it’s ok for goals to have multiple signals and metrics. It’s also not necessary to have metrics for every dimension. It’s more important to pick things that are relevant to the problem you are trying to solve.
+
+*HEART Framework Example: Grocery Store app*
+
+||Goal|Signals|Metrics|
+|---|---|---|---|
+|**H**appiness|Efficient pick up|Waiting for pick up|Avg. wait time|
+|**E**ngagement|Buy products|Product added to cart|Avg # products purchased per cart|
+|**A**doption|Share with friends|Refer a friend|Referral sign up rate|
+|**R**etention|Automatic ordering of basics|Opt in to auto orders|Avg # of auto ordered items / user / month<br/>% of users with auto order|
+|**T**ask Success|Find item easier later|Item added to shopping list|% of users with items on list|
+
+
+**Design Principles**
+
+Design principles guide the way that you think about building your product. They guide the development of your concept. Agreeing on design principles with the team can make decisions and reviews easier later because you can refer to the already agreed-upon principles.
+
+A design principle:
+
+- Focuses on what matters most
+- Describes the personality of your product.
+- Expressed by a short phrase followed by a brief explanation with a few more details
+
+When executed well, design principles can be easily identified by people who use the product.
+
+Design principles are usually short just a word or two, followed by a brief explanation.
+
+*Examples*
+
+- Google: fast with a less is more approach to created a UI focused on getting to your answer as quickly as possible.
+- Airbnb: connecting hosts and guests globally around the world like a mutual friend would
+- Apple: trustworthy because it takes care to keep your private data private.
+
+*Creating Design Principles*
+
+1. Ask the team to spend 5-10 minutes individually brainstorming design principles that they think will be important for the project.
+2. Bring the team together and have each team members share their ideas.
+
+You can use affinity mapping to find common themes just like we did for the "how might we" statements.
+
+**Future Press Release**
+
+Writing a future press release or review about your product is a great way to get everyone on the team aligned on the outcomes you are trying to achieve. They also can be fun to write. The main difference between a press release and a review is that a press release is being told from your point of view while a review would be written from the perspective of a third party.
+
+When you’re writing a press release or review it will be important to include the following components
+
+- Name of the product (although this doesn’t have to be final and can change)
+- Who is the target user?
+- What problem does your product solve?
+- How does your product solve this problem?
+- Why your team built this
+- Why should users care?
+- How do users react to your product?
+- What sets this product apart from others?
+- How can users get the product
+
+*Things to Remember*
+- Write this for an external audience that is not familiar with the product space
+- When talking about the solution focus on what the product does rather than how it does it.
+
+
+
+
+
+**Useful Links**
+
+[Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications
+](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36299.pdf)
+
+[Startup Metrics for Pirates -- AARRR](https://www.pierrelechelle.com/aarrr-pirate-metrics)
+
+[Spotify's Design Principles](https://spotify.design/article/introducing-spotifys-new-design-principles)
+
+[Design Principles](https://principles.design/)
+
+[Press Release Example](https://www.blog.google/products/google-wifi/google-wifis-network-check-now-tests-multiple-device-connections/)
+
+[Innovate Like Amazon with The Future Press Release](http://the-amazon-way.com/blog/future-press-release/)
